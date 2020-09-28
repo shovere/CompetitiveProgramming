@@ -1,4 +1,7 @@
 //coloring socks, vjudge
+//sort from highest to lowest
+//pick up sock if doing so does not violate machine's max load or->
+//->the color difference defined
 #include <iostream>
 #include <vector>
 #include <algorithm>
